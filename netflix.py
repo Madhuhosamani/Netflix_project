@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
-!pip install streamlit
+
 from pickle5 import pickle
 import pandas as pd
 import streamlit as st
